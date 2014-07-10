@@ -1,6 +1,6 @@
 # DemoLorem
 
-TODO: Write a gem description
+Simple lorem ipsum generator.
 
 ## Installation
 
