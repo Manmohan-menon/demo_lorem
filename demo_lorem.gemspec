@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["manmohan.menon@gmail.com"]
   spec.description   = %q{Lorem Ipsum generator}
   spec.summary       = %q{simply generates lorem ipsum text.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Manmohan-menon/demo_lorem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

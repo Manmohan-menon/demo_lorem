@@ -1,6 +1,14 @@
 # DemoLorem
 
-Simple lorem ipsum generator.
+Simple lorem generator, with 8 different methods of producing dummy texts.
+1. ipsum
+2. cicero
+3. european_languages
+4. far_far_away
+5. weather
+6. kafka
+7. pangram
+8. random_regex
 
 ## Installation
 
