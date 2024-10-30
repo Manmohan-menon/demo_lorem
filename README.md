@@ -123,9 +123,9 @@ Signficance:
 ## Future Enhancements
 May add few more methods in future(hopefully soon "[:)]" ).
 ## Update
-We've made some significant updates to DemoLorem. Here are the highlights:
+Made some significant updates to DemoLorem. Here are the highlights:
 
-- Removed Methods: We've streamlined the gem by removing some methods that were required for    specific personal projects but no longer serve a general purpose. 
+- Removed Methods: We've streamlined the gem by removing some methods that were required for specific personal projects but no longer serve a general purpose. 
 These include:
 
  - weather
