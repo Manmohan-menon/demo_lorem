@@ -1,4 +1,5 @@
-*.gem
+.rspec
+.ruby-version
 *.rbc
 .bundle
 .config
