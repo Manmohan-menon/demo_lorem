@@ -1,4 +1,4 @@
-# DemoLorem
+# DemoLorem [![Gem Version](https://badge.fury.io/rb/demo_lorem.svg?icon=si:rubygems)](https://badge.fury.io/rb/demo_lorem)
 
 DemoLorem is a versatile text generation gem that provides multiple methods for generating placeholder text, ranging from traditional Lorem Ipsum to AI-powered content generation.
 

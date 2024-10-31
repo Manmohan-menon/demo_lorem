@@ -40,7 +40,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'webmock', '~> 3.18'
 
   spec.add_runtime_dependency 'cgi', '~> 0.1', '>= 0.1.0'
-  spec.add_runtime_dependency 'httparty', '~> 0.18', '>= 0.18.1'
+  spec.add_runtime_dependency 'httparty', '~> 0.21', '>= 0.21.0'
   spec.add_dependency 'json', '~> 2.6'
   spec.add_runtime_dependency 'openai', '~> 0.1', '>= 0.1.0'
 end
