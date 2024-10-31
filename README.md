@@ -128,19 +128,19 @@ Made some significant updates to DemoLorem. Here are the highlights:
 - Removed Methods: We've streamlined the gem by removing some methods that were required for specific personal projects but no longer serve a general purpose. 
 These include:
 
- - weather
+  - weather
 
- - kafka
+  - kafka
 
- - european_languages
+  - european_languages
 
- - far_far_away
+  - far_far_away
 
-- New Methods: To enhance functionality, we've added two new powerful methods:
+- New Methods: To enhance functionality, added two new powerful methods:
 
- - AI-Based Content Generation: Fetches content from AI sources like OpenAI, allowing for more dynamic and topic-specific text generation.
+  - AI-Based Content Generation: Fetches content from AI sources like OpenAI, allowing for more dynamic and topic-specific text generation.
 
- - Non-AI Content Fetching: Fetches content from non-AI sources such as Wikipedia, providing real-world content for your applications.
+  - Non-AI Content Fetching: Fetches content from non-AI sources such as Wikipedia(current support), providing real-world content for your applications.
 
 - Modified random_regex Method: The random_regex method has been improved to generate more diverse and complex regular expressions, useful for testing and development purposes.
 
